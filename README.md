@@ -49,7 +49,8 @@ It helps hospital administrators and healthcare professionals monitor patient fl
 1. Download the Excel file from this repository.  
 2. Open it using Microsoft Excel.  
 3. Use slicers (Month & Year) to switch between reports.  
-4. Explore insights visually through charts and KPIs.  
+4. Explore insights visually through charts and KPIs.  [Dashboard Hospital Emergency Room Data.xlsx](https://github.com/user-attachments/files/23517398/Dashboard.Hospital.Emergency.Room.Data.xlsx)
+
 
 ---
 
